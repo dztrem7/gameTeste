@@ -4,6 +4,8 @@ using UnityEngine.SceneManagement; // ⭐ IMPORTANTE
 
 public class Vida : MonoBehaviour
 {
+
+    // teste
     public GameObject gameOverPanel;
     public Image[] coracoes;
     public AudioClip somDano;

@@ -6,7 +6,6 @@ public class CameraFollow : MonoBehaviour
     public Vector3 offset;          // distância da câmera em relação ao player
     public float smoothSpeed = 0.125f; // suavização do movimento
 
-// ola!
     void LateUpdate()
     {
         if (player == null) return;
