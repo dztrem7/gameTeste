@@ -6,6 +6,7 @@ public class Vida : MonoBehaviour
 {
 
     // teste
+    // opa!
     public GameObject gameOverPanel;
     public Image[] coracoes;
     public AudioClip somDano;

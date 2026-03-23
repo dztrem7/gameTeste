@@ -8,6 +8,8 @@ public class coracao : MonoBehaviour
     {
         img.fillAmount -= 0.50f;
     }
+
+    // vida
     
 }
  

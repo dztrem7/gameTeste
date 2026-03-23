@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class CameraFollow : MonoBehaviour
 {
+
+    // fala 
     public Transform player;        // arraste o player aqui
     public Vector3 offset;          // distância da câmera em relação ao player
     public float smoothSpeed = 0.125f; // suavização do movimento
