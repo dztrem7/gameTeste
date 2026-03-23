@@ -7,7 +7,6 @@ public class CameraFollow : MonoBehaviour
     public float smoothSpeed = 0.125f; // suavização do movimento
 
 
-// testandooo
     void LateUpdate()
     {
         if (player == null) return;
